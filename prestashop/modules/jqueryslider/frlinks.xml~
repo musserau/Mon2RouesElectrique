@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<links>
+	<link>
+		<url>http://127.0.0.1/bio-en-promo/10-acerola-bio-500.html</url>
+		<img>fr0.jpg</img>
+	</link>
+	<link>
+		<url>product.php?id_product=8</url>
+		<img>fr1.jpg</img>
+	</link>
+	<link>
+		<url>product.php?id_product=6</url>
+		<img>fr2.jpg</img>
+	</link>
+	<link>
+		<url>product.php?id_product=2</url>
+		<img>fr3.jpg</img>
+	</link>
+	<link>
+		<url>product.php?id_product=9</url>
+		<img>fr4.jpg</img>
+	</link>
+	<link>
+		<url>product.php?id_product=8</url>
+		<img>fr5.jpg</img>
+	</link>
+	<link>
+		<url>product.php?id_product=6</url>
+		<img>fr6.jpg</img>
+	</link>
+	<link>
+		<url>product.php?id_product=2</url>
+		<img>fr7.jpg</img>
+	</link>
+</links>

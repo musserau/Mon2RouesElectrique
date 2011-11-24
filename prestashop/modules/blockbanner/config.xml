@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockbanner</name>
+	<displayName><![CDATA[Block Banner]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Adds a block to display an advertising]]></description>
+	<author><![CDATA[]]></author>
+	<tab><![CDATA[Blocks]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
